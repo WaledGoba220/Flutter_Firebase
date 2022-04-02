@@ -2,4 +2,4 @@
 How to deal and link between Flutter and Firebase
 
 
-/photo1.jpg
+	/../photo1.jpg
